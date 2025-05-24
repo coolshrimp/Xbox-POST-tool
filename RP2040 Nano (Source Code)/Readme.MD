@@ -35,7 +35,10 @@ Install via Arduino Library Manager:
 - [Latest Precompiled UF2](https://github.com/coolshrimp/Xbox-POST-tool/releases/latest)
 
 📷 **Wiring Diagram:**
+Comin soon
 
+
+**Install Diagram:**
 <h3>RP2040 Nano Wiring Diagram</h3>
 <img src="https://raw.githubusercontent.com/coolshrimp/Xbox-POST-tool/main/RP2040%20Nano%20(Source%20Code)/rp2040Nano.JPEG" width="300"/>
 
