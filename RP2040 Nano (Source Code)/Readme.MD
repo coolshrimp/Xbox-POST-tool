@@ -36,4 +36,5 @@ Install via Arduino Library Manager:
 
 📷 **Wiring Diagram:**
 
-Coming soon..
+![RP2040 Nano Wiring](https://raw.githubusercontent.com/coolshrimp/Xbox-POST-tool/main/RP2040%20Nano%20(Source%20Code)/rp2040Nano.JPEG)
+
