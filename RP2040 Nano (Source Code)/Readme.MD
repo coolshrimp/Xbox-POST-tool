@@ -29,3 +29,11 @@ Install via Arduino Library Manager:
 | Display SDA    | GP10                      | `GPIO 10` |
 | Display SCL    | GP11                      | `GPIO 11` |
 
+### 📦 RP2040 Source & Binaries
+
+- [View RP2040 Source Code](https://github.com/coolshrimp/Xbox-POST-tool/tree/main/RP2040%20Nano%20(Source%20Code))
+- [Latest Precompiled UF2](https://github.com/coolshrimp/Xbox-POST-tool/releases/latest)
+
+📷 **Wiring Diagram:**
+
+Coming soon..
